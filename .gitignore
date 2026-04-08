@@ -1,0 +1,37 @@
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]serSettings/
+
+# Archivos de memoria y temporales de macOS
+.DS_Store
+
+# Archivos de soluciones de Visual Studio / JetBrains Rider
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svclog
+*.com.apple.itunes.plist
+
+# Cache de compilación de Unity
+[Aa]ssetStoreTools*
+
+# Archivos de Gradle (Android)
+.gradle/
+
+# Reportes de crashes
+sysinfo.txt
+
+# Extensiones de archivos de backup de builds
+*.apk
+*.unitypackage
+*.bundle
